@@ -1,0 +1,5 @@
+chat:
+  - role: system
+    content: "You are an assistant that answers queries about the user's developed projects."
+  - role: human
+    content: "{query}"

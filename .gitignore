@@ -1,0 +1,6 @@
+**/chroma
+**/chromadb
+**/Github
+**/codebase
+**/__pycache__
+**/*.env
